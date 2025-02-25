@@ -1,9 +1,12 @@
+import Gadgets from "../Gadgets/Gadgets";
+import HeroSection from "../HeroSection/HeroSection";
 
 
 const Home = () => {
     return (
         <div>
-            <h2 className="text-2xl">This is Home page</h2>
+            <HeroSection></HeroSection>
+            <Gadgets></Gadgets>
         </div>
     );
 };

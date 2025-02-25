@@ -1,0 +1,714 @@
+
+    [
+        {
+            "id": 1,
+            "model_name": "iPhone 15 Pro",
+            "description": "Latest iPhone with A17 chip and titanium design.",
+            "stock": "in stock",
+            "price": 999,
+            "specifications": {
+                "display": "6.1-inch Super Retina XDR",
+                "processor": "A17 Bionic",
+                "storage": "128GB, 256GB, 512GB, 1TB",
+                "camera": "48MP Main, 12MP Ultra Wide, 12MP Telephoto"
+            },
+            "rating": 4.8,
+            "real_image_link": "https://pixabay.com/photos/office-macbook-laptop-apple-1734485/"
+        },
+        {
+            "id": 2,
+            "model_name": "Samsung Galaxy S23 Ultra",
+            "description": "Flagship Android phone with 200MP camera.",
+            "stock": "in stock",
+            "price": 1199,
+            "specifications": {
+                "display": "6.8-inch Dynamic AMOLED 2X",
+                "processor": "Snapdragon 8 Gen 2",
+                "storage": "256GB, 512GB, 1TB",
+                "camera": "200MP Wide, 12MP Ultra Wide, 10MP Telephoto"
+            },
+            "rating": 4.7,
+            "real_image_link": "https://example.com/s23ultra.jpg"
+        },
+        {
+            "id": 3,
+            "model_name": "Google Pixel 8 Pro",
+            "description": "AI-powered smartphone with advanced camera features.",
+            "stock": "in stock",
+            "price": 899,
+            "specifications": {
+                "display": "6.7-inch OLED",
+                "processor": "Google Tensor G3",
+                "storage": "128GB, 256GB",
+                "camera": "50MP Wide, 48MP Ultra Wide, 12MP Telephoto"
+            },
+            "rating": 4.6,
+            "real_image_link": "https://example.com/pixel8pro.jpg"
+        },
+        {
+            "id": 4,
+            "model_name": "OnePlus 11",
+            "description": "Flagship killer with Hasselblad camera.",
+            "stock":"out of stock",
+            "price": 799,
+            "specifications": {
+                "display": "6.7-inch Fluid AMOLED",
+                "processor": "Snapdragon 8 Gen 2",
+                "storage": "128GB, 256GB",
+                "camera": "50MP Main, 48MP Ultra Wide, 32MP Telephoto"
+            },
+            "rating": 4.5,
+            "real_image_link": "https://example.com/oneplus11.jpg"
+        },
+        {
+            "id": 5,
+            "model_name": "Xiaomi 13 Pro",
+            "description": "High-performance phone with Leica camera.",
+            "stock":"in stock",
+            "price": 999,
+            "specifications": {
+                "display": "6.73-inch AMOLED",
+                "processor": "Snapdragon 8 Gen 2",
+                "storage": "256GB, 512GB",
+                "camera": "50MP Main, 50MP Ultra Wide, 50MP Telephoto"
+            },
+            "rating": 4.6,
+            "real_image_link": "https://example.com/xiaomi13pro.jpg"
+        },
+        {
+            "id": 6,
+            "model_name": "Sony Xperia 1 V",
+            "description": "Cinematic phone with 4K OLED display.",
+            "stock": "out of stock",
+            "price": 1299,
+            "specifications": {
+                "display": "6.5-inch 4K OLED",
+                "processor": "Snapdragon 8 Gen 2",
+                "storage": "256GB",
+                "camera": "48MP Main, 12MP Ultra Wide, 12MP Telephoto"
+            },
+            "rating": 4.4,
+            "real_image_link": "https://example.com/xperia1v.jpg"
+        },
+        {
+            "id": 7,
+            "model_name": "Asus ROG Phone 7",
+            "description": "Gaming phone with Snapdragon 8 Gen 2.",
+            "stock": "in stock",
+            "price": 999,
+            "specifications": {
+                "display": "6.78-inch AMOLED",
+                "processor": "Snapdragon 8 Gen 2",
+                "storage": "256GB, 512GB",
+                "camera": "50MP Main, 13MP Ultra Wide, 5MP Macro"
+            },
+            "rating": 4.5,
+            "real_image_link": "https://example.com/rogphone7.jpg"
+        },
+        {
+            "id": 8,
+            "model_name": "Oppo Find X6 Pro",
+            "description": "Premium phone with Hasselblad camera.",
+            "stock": "in stock",
+            "price": 1099,
+            "specifications": {
+                "display": "6.82-inch AMOLED",
+                "processor": "Snapdragon 8 Gen 2",
+                "storage": "256GB, 512GB",
+                "camera": "50MP Main, 50MP Ultra Wide, 50MP Telephoto"
+            },
+            "rating": 4.6,
+            "real_image_link": "https://example.com/oppofindx6pro.jpg"
+        },
+        {
+            "id": 9,
+            "model_name": "Nothing Phone 2",
+            "description": "Unique design with Glyph Interface.",
+            "stock": "out of stock",
+            "price": 699,
+            "specifications": {
+                "display": "6.7-inch OLED",
+                "processor": "Snapdragon 8+ Gen 1",
+                "storage": "128GB, 256GB",
+                "camera": "50MP Main, 50MP Ultra Wide"
+            },
+            "rating": 4.3,
+            "real_image_link": "https://example.com/nothingphone2.jpg"
+        },
+        {
+            "id": 10,
+            "model_name": "Apple Watch Series 9",
+            "description": "Advanced smartwatch with health monitoring features.",
+            "stock": "in stock",
+            "price": 399,
+            "specifications": {
+                "display": "1.9-inch Retina LTPO OLED",
+                "processor": "S9 SiP",
+                "battery_life": "18 hours",
+                "features": [
+                    "ECG",
+                    "Blood Oxygen",
+                    "GPS"
+                ]
+            },
+            "rating": 4.8,
+            "real_image_link": "https://example.com/applewatch9.jpg"
+        },
+        {
+            "id": 11,
+            "model_name": "Samsung Galaxy Watch 6",
+            "description": "Premium smartwatch with rotating bezel and health tracking.",
+            "stock": "in stock",
+            "price": 349,
+            "specifications": {
+                "display": "1.5-inch Super AMOLED",
+                "processor": "Exynos W930",
+                "battery_life": "40 hours",
+                "features": [
+                    "ECG",
+                    "Blood Pressure",
+                    "Sleep Tracking"
+                ]
+            },
+            "rating": 4.6,
+            "real_image_link": "https://example.com/galaxywatch6.jpg"
+        },
+        {
+            "id": 12,
+            "model_name": "Fitbit Sense 2",
+            "description": "Health-focused smartwatch with stress management tools.",
+            "stock": "in stock",
+            "price": 299,
+            "specifications": {
+                "display": "1.58-inch AMOLED",
+                "processor": "Fitbit OS",
+                "battery_life": "6 days",
+                "features": [
+                    "ECG",
+                    "Stress Management",
+                    "Sleep Tracking"
+                ]
+            },
+            "rating": 4.5,
+            "real_image_link": "https://example.com/fitbitsense2.jpg"
+        },
+        {
+            "id": 13,
+            "model_name": "Garmin Venu 3",
+            "description": "Fitness smartwatch with advanced health metrics.",
+            "stock": "in stock",
+            "price": 449,
+            "specifications": {
+                "display": "1.4-inch AMOLED",
+                "processor": "Garmin OS",
+                "battery_life": "14 days",
+                "features": [
+                    "ECG",
+                    "Sleep Coaching",
+                    "GPS"
+                ]
+            },
+            "rating": 4.7,
+            "real_image_link": "https://example.com/garminvenu3.jpg"
+        },
+        {
+            "id": 14,
+            "model_name": "Huawei Watch GT 4",
+            "description": "Stylish smartwatch with long battery life.",
+            "stock": "out of stock",
+            "price": 299,
+            "specifications": {
+                "display": "1.43-inch AMOLED",
+                "processor": "Huawei Lite OS",
+                "battery_life": "14 days",
+                "features": [
+                    "Heart Rate Monitoring",
+                    "Sleep Tracking",
+                    "GPS"
+                ]
+            },
+            "rating": 4.4,
+            "real_image_link": "https://example.com/huaweiwatchgt4.jpg"
+        },
+        {
+            "id": 15,
+            "model_name": "Amazfit GTR 4",
+            "description": "Affordable smartwatch with fitness tracking.",
+            "stock": "in stock",
+            "price": 199,
+            "specifications": {
+                "display": "1.43-inch AMOLED",
+                "processor": "Zepp OS",
+                "battery_life": "14 days",
+                "features": [
+                    "Heart Rate Monitoring",
+                    "Sleep Tracking",
+                    "GPS"
+                ]
+            },
+            "rating": 4.3,
+            "real_image_link": "https://example.com/amazfitgtr4.jpg"
+        },
+        {
+            "id": 16,
+            "model_name": "Fossil Gen 6",
+            "description": "Fashionable smartwatch with Wear OS.",
+            "stock": "in stock",
+            "price": 299,
+            "specifications": {
+                "display": "1.28-inch AMOLED",
+                "processor": "Snapdragon Wear 4100+",
+                "battery_life": "24 hours",
+                "features": [
+                    "Heart Rate Monitoring",
+                    "GPS",
+                    "NFC"
+                ]
+            },
+            "rating": 4.2,
+            "real_image_link": "https://example.com/fossilgen6.jpg"
+        },
+        {
+            "id": 17,
+            "model_name": "TicWatch Pro 5",
+            "description": "Dual-layer display smartwatch with Wear OS.",
+            "stock": "in stock",
+            "price": 349,
+            "specifications": {
+                "display": "1.39-inch AMOLED",
+                "processor": "Snapdragon Wear 4100+",
+                "battery_life": "45 days",
+                "features": [
+                    "Heart Rate Monitoring",
+                    "GPS",
+                    "NFC"
+                ]
+            },
+            "rating": 4.5,
+            "real_image_link": "https://example.com/ticwatchpro5.jpg"
+        },
+        {
+            "id": 18,
+            "model_name": "Withings ScanWatch 2",
+            "description": "Hybrid smartwatch with ECG and SpO2.",
+            "stock": "in stock",
+            "price": 299,
+            "specifications": {
+                "display": "1.2-inch PMOLED",
+                "processor": "Withings OS",
+                "battery_life": "30 days",
+                "features": [
+                    "ECG",
+                    "SpO2",
+                    "Sleep Tracking"
+                ]
+            },
+            "rating": 4.4,
+            "real_image_link": "https://example.com/withingsscanwatch2.jpg"
+        },
+        {
+            "id": 19,
+            "model_name": "Dell XPS 13",
+            "description": "Ultra-thin laptop with InfinityEdge display.",
+            "stock": "out of stock",
+            "price": 1299,
+            "specifications": {
+                "display": "13.4-inch 4K UHD+",
+                "processor": "Intel Core i7-1250U",
+                "ram": "16GB",
+                "storage": "512GB SSD"
+            },
+            "rating": 4.7,
+            "real_image_link": "https://example.com/dellxps13.jpg"
+        },
+        {
+            "id": 20,
+            "model_name": "HP Spectre x360",
+            "description": "Convertible laptop with OLED display.",
+            "stock": "in stock",
+            "price": 1399,
+            "specifications": {
+                "display": "13.5-inch OLED",
+                "processor": "Intel Core i7-1260P",
+                "ram": "16GB",
+                "storage": "1TB SSD"
+            },
+            "rating": 4.6,
+            "real_image_link": "https://example.com/hpspectre.jpg"
+        },
+        {
+            "id": 21,
+            "model_name": "Lenovo ThinkPad X1 Carbon",
+            "description": "Business laptop with lightweight design.",
+            "stock": "in stock",
+            "price": 1499,
+            "specifications": {
+                "display": "14-inch WQXGA",
+                "processor": "Intel Core i7-1270P",
+                "ram": "16GB",
+                "storage": "1TB SSD"
+            },
+            "rating": 4.8,
+            "real_image_link": "https://example.com/thinkpadx1.jpg"
+        },
+        {
+            "id": 22,
+            "model_name": "Asus ROG Zephyrus G14",
+            "description": "Gaming laptop with Ryzen 9 and RTX 4060.",
+            "stock": "in stock",
+            "price": 1599,
+            "specifications": {
+                "display": "14-inch QHD+",
+                "processor": "AMD Ryzen 9 7940HS",
+                "ram": "16GB",
+                "storage": "1TB SSD"
+            },
+            "rating": 4.7,
+            "real_image_link": "https://example.com/rogzephyrusg14.jpg"
+        },
+        {
+            "id": 23,
+            "model_name": "Acer Swift 5",
+            "description": "Lightweight laptop with Intel Evo platform.",
+            "stock": "in stock",
+            "price": 1199,
+            "specifications": {
+                "display": "14-inch FHD",
+                "processor": "Intel Core i7-1260P",
+                "ram": "16GB",
+                "storage": "512GB SSD"
+            },
+            "rating": 4.5,
+            "real_image_link": "https://example.com/acerswift5.jpg"
+        },
+        {
+            "id": 24,
+            "model_name": "Microsoft Surface Laptop 5",
+            "description": "Sleek laptop with touchscreen and Windows 11.",
+            "stock": "in stock",
+            "price": 1299,
+            "specifications": {
+                "display": "13.5-inch PixelSense",
+                "processor": "Intel Core i7-1250U",
+                "ram": "16GB",
+                "storage": "512GB SSD"
+            },
+            "rating": 4.6,
+            "real_image_link": "https://example.com/surface5.jpg"
+        },
+        {
+            "id": 25,
+            "model_name": "Razer Blade 15",
+            "description": "Gaming laptop with RTX 4070 and QHD display.",
+            "stock": "in stock",
+            "price": 2499,
+            "specifications": {
+                "display": "15.6-inch QHD",
+                "processor": "Intel Core i7-12800H",
+                "ram": "16GB",
+                "storage": "1TB SSD"
+            },
+            "rating": 4.8,
+            "real_image_link": "https://example.com/razerblade15.jpg"
+        },
+        {
+            "id": 26,
+            "model_name": "LG Gram 17",
+            "description": "Ultra-light laptop with 17-inch display.",
+            "stock": "in stock",
+            "price": 1699,
+            "specifications": {
+                "display": "17-inch WQXGA",
+                "processor": "Intel Core i7-1260P",
+                "ram": "16GB",
+                "storage": "1TB SSD"
+            },
+            "rating": 4.6,
+            "real_image_link": "https://example.com/lggram17.jpg"
+        },
+        {
+            "id": 27,
+            "model_name": "MSI Stealth 14 Studio",
+            "description": "Compact gaming laptop with RTX 4060.",
+            "stock": "in stock",
+            "price": 1799,
+            "specifications": {
+                "display": "14-inch QHD+",
+                "processor": "Intel Core i7-13700H",
+                "ram": "16GB",
+                "storage": "1TB SSD"
+            },
+            "rating": 4.9,
+            "real_image_link": "https://example.com/lggram17.jpg"
+        },
+        {
+            "id": 28,
+            "model_name": "iPad Pro 12.9",
+            "description": "Powerful tablet with M2 chip and Liquid Retina XDR display.",
+            "stock": "out of stock",
+            "price": 1099,
+            "specifications": {
+                "display": "12.9-inch Liquid Retina XDR",
+                "processor": "Apple M2",
+                "storage": "128GB, 256GB, 512GB, 1TB",
+                "camera": "12MP Wide, 10MP Ultra Wide"
+            },
+            "rating": 4.8,
+            "real_image_link": "https://example.com/ipadpro12.jpg"
+        },
+        {
+            "id": 29,
+            "model_name": "Samsung Galaxy Tab S9 Ultra",
+            "description": "Large Android tablet with AMOLED display.",
+            "stock": "out of stock",
+            "price": 999,
+            "specifications": {
+                "display": "14.6-inch AMOLED",
+                "processor": "Snapdragon 8 Gen 2",
+                "storage": "256GB, 512GB",
+                "camera": "13MP Wide, 8MP Ultra Wide"
+            },
+            "rating": 4.7,
+            "real_image_link": "https://example.com/galaxytabs9.jpg"
+        },
+        {
+            "id": 30,
+            "model_name": "Microsoft Surface Pro 9",
+            "description": "Versatile 2-in-1 tablet with detachable keyboard.",
+            "stock": "in stock",
+            "price": 1199,
+            "specifications": {
+                "display": "13-inch PixelSense",
+                "processor": "Intel Core i7-1255U",
+                "storage": "256GB, 512GB, 1TB",
+                "camera": "10MP Rear, 5MP Front"
+            },
+            "rating": 4.6,
+            "real_image_link": "https://example.com/surfacepro9.jpg"
+        },
+        {
+            "id": 31,
+            "model_name": "Lenovo Tab P12 Pro",
+            "description": "Premium Android tablet with OLED display.",
+            "stock": "out of stock",
+            "price": 899,
+            "specifications": {
+                "display": "12.6-inch OLED",
+                "processor": "Snapdragon 870",
+                "storage": "128GB, 256GB",
+                "camera": "13MP Rear, 8MP Front"
+            },
+            "rating": 4.5,
+            "real_image_link": "https://example.com/lenovotabp12pro.jpg"
+        },
+        {
+            "id": 32,
+            "model_name": "Huawei MatePad Pro 12.6",
+            "description": "High-performance tablet with HarmonyOS.",
+            "stock": "out of stock",
+            "price": 999,
+            "specifications": {
+                "display": "12.6-inch OLED",
+                "processor": "Kirin 9000E",
+                "storage": "256GB",
+                "camera": "13MP Rear, 8MP Front"
+            },
+            "rating": 4.4,
+            "real_image_link": "https://example.com/huaweimatepadpro.jpg"
+        },
+        {
+            "id": 33,
+            "model_name": "Amazon Fire Max 11",
+            "description": "Affordable tablet with Alexa integration.",
+            "stock": "in stock",
+            "price": 229,
+            "specifications": {
+                "display": "11-inch IPS LCD",
+                "processor": "MediaTek MT8188",
+                "storage": "64GB",
+                "camera": "8MP Rear, 5MP Front"
+            },
+            "rating": 4.2,
+            "real_image_link": "https://example.com/firemax11.jpg"
+        },
+        {
+            "id": 34,
+            "model_name": "Xiaomi Pad 6 Pro",
+            "description": "High-performance tablet with Snapdragon 8+ Gen 1.",
+            "stock": "in stock",
+            "price": 599,
+            "specifications": {
+                "display": "11-inch IPS LCD",
+                "processor": "Snapdragon 8+ Gen 1",
+                "storage": "128GB, 256GB",
+                "camera": "50MP Rear, 20MP Front"
+            },
+            "rating": 4.5,
+            "real_image_link": "https://example.com/xiaomipad6pro.jpg"
+        },
+        {
+            "id": 35,
+            "model_name": "Oppo Pad 2",
+            "description": "Slim tablet with 2.5K display.",
+            "stock": "in stock",
+            "price": 499,
+            "specifications": {
+                "display": "11-inch 2.5K LCD",
+                "processor": "Snapdragon 870",
+                "storage": "128GB, 256GB",
+                "camera": "13MP Rear, 8MP Front"
+            },
+            "rating": 4.3,
+            "real_image_link": "https://example.com/oppopad2.jpg"
+        },
+        {
+            "id": 36,
+            "model_name": "Realme Pad X",
+            "description": "Budget-friendly tablet with 2K display.",
+            "stock": "in stock",
+            "price": 299,
+            "specifications": {
+                "display": "10.4-inch 2K LCD",
+                "processor": "Snapdragon 695",
+                "storage": "64GB, 128GB",
+                "camera": "13MP Rear, 8MP Front"
+            },
+            "rating": 4.1,
+            "real_image_link": "https://example.com/oppopad2.jpg"
+        },
+        {
+            "id": 37,
+            "model_name": "MacBook Air M2",
+            "description": "Thin and light laptop with Apple M2 chip.",
+            "stock": "in stock",
+            "price": 1199,
+            "specifications": {
+                "display": "13.6-inch Liquid Retina",
+                "processor": "Apple M2",
+                "ram": "8GB, 16GB",
+                "storage": "256GB, 512GB, 1TB"
+            },
+            "rating": 4.8,
+            "real_image_link": "https://example.com/macbookairm2.jpg"
+        },
+        {
+            "id": 38,
+            "model_name": "MacBook Pro 14",
+            "description": "Pro-level laptop with M2 Pro chip and Mini-LED display.",
+            "stock": "in stock",
+            "price": 1999,
+            "specifications": {
+                "display": "14.2-inch Liquid Retina XDR",
+                "processor": "Apple M2 Pro",
+                "ram": "16GB, 32GB",
+                "storage": "512GB, 1TB, 2TB"
+            },
+            "rating": 4.9,
+            "real_image_link": "https://example.com/macbookpro14.jpg"
+        },
+        {
+            "id": 39,
+            "model_name": "MacBook Pro 16",
+            "description": "High-performance laptop for professionals.",
+            "stock": "in stock",
+            "price": 2499,
+            "specifications": {
+                "display": "16.2-inch Liquid Retina XDR",
+                "processor": "Apple M2 Max",
+                "ram": "32GB, 64GB",
+                "storage": "1TB, 2TB, 4TB"
+            },
+            "rating": 4.9,
+            "real_image_link": "https://example.com/macbookpro16.jpg"
+        },
+        {
+            "id": 40,
+            "model_name": "MacBook Air M1",
+            "description": "Affordable and efficient laptop with Apple M1 chip.",
+            "stock": "out of stock",
+            "price": 999,
+            "specifications": {
+                "display": "13.3-inch Retina",
+                "processor": "Apple M1",
+                "ram": "8GB, 16GB",
+                "storage": "256GB, 512GB"
+            },
+            "rating": 4.7,
+            "real_image_link": "https://example.com/macbookairm1.jpg"
+        },
+        {
+            "id": 41,
+            "model_name": "MacBook Pro 13 M2",
+            "description": "Compact pro laptop with Apple M2 chip.",
+            "stock": "out of stock",
+            "price": 1299,
+            "specifications": {
+                "display": "13.3-inch Retina",
+                "processor": "Apple M2",
+                "ram": "8GB, 16GB",
+                "storage": "256GB, 512GB, 1TB"
+            },
+            "rating": 4.6,
+            "real_image_link": "https://example.com/macbookpro13m2.jpg"
+        },
+        {
+            "id": 42,
+            "model_name": "MacBook Pro 14 M1 Pro",
+            "description": "Powerful laptop with M1 Pro chip for creative professionals.",
+            "stock": "out of stock",
+            "price": 1999,
+            "specifications": {
+                "display": "14.2-inch Liquid Retina XDR",
+                "processor": "Apple M1 Pro",
+                "ram": "16GB, 32GB",
+                "storage": "512GB, 1TB, 2TB"
+            },
+            "rating": 4.8,
+            "real_image_link": "https://example.com/macbookpro14m1pro.jpg"
+        },
+        {
+            "id": 43,
+            "model_name": "MacBook Pro 16 M1 Max",
+            "description": "Ultra-powerful laptop with M1 Max chip for heavy workloads.",
+            "stock": "in stock",
+            "price": 3499,
+            "specifications": {
+                "display": "16.2-inch Liquid Retina XDR",
+                "processor": "Apple M1 Max",
+                "ram": "32GB, 64GB",
+                "storage": "1TB, 2TB, 4TB, 8TB"
+            },
+            "rating": 4.9,
+            "real_image_link": "https://example.com/macbookpro16m1max.jpg"
+        },
+        {
+            "id": 44,
+            "model_name": "MacBook Air M2 (Midnight)",
+            "description": "Sleek MacBook Air in Midnight color with M2 chip.",
+            "stock": "in stock",
+            "price": 1199,
+            "specifications": {
+                "display": "13.6-inch Liquid Retina",
+                "processor": "Apple M2",
+                "ram": "8GB, 16GB",
+                "storage": "256GB, 512GB, 1TB"
+            },
+            "rating": 4.8,
+            "real_image_link": "https://example.com/macbookairm2midnight.jpg"
+        },
+        {
+            "id": 45,
+            "model_name": "MacBook Pro 14 M2 Max",
+            "description": "Top-tier laptop with M2 Max chip for extreme performance.",
+            "stock": "in stock",
+            "price": 2999,
+            "specifications": {
+                "display": "14.2-inch Liquid Retina XDR",
+                "processor": "Apple M2 Max",
+                "ram": "32GB, 64GB, 96GB",
+                "storage": "1TB, 2TB, 4TB, 8TB"
+            },
+            "rating": 4.9,
+            "real_image_link": "https://example.com/macbookpro14m2max.jpg"
+        }
+    ]
