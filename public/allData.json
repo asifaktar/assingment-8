@@ -13,7 +13,7 @@
                 "camera": "48MP Main, 12MP Ultra Wide, 12MP Telephoto"
             },
             "rating": 4.8,
-            "real_image_link": "https://pixabay.com/photos/office-macbook-laptop-apple-1734485/"
+            "real_image_link": "https://i.ibb.co/VnNbvPw/laptop.webp"
         },
         {
             "id": 2,
@@ -28,7 +28,7 @@
                 "camera": "200MP Wide, 12MP Ultra Wide, 10MP Telephoto"
             },
             "rating": 4.7,
-            "real_image_link": "https://example.com/s23ultra.jpg"
+            "real_image_link": "https://i.ibb.co/VnNbvPw/laptop.webp"
         },
         {
             "id": 3,
@@ -43,7 +43,7 @@
                 "camera": "50MP Wide, 48MP Ultra Wide, 12MP Telephoto"
             },
             "rating": 4.6,
-            "real_image_link": "https://example.com/pixel8pro.jpg"
+            "real_image_link": "https://i.ibb.co/VnNbvPw/laptop.webp"
         },
         {
             "id": 4,
@@ -58,7 +58,7 @@
                 "camera": "50MP Main, 48MP Ultra Wide, 32MP Telephoto"
             },
             "rating": 4.5,
-            "real_image_link": "https://example.com/oneplus11.jpg"
+            "real_image_link": "https://i.ibb.co/VnNbvPw/laptop.webp"
         },
         {
             "id": 5,
@@ -73,7 +73,7 @@
                 "camera": "50MP Main, 50MP Ultra Wide, 50MP Telephoto"
             },
             "rating": 4.6,
-            "real_image_link": "https://example.com/xiaomi13pro.jpg"
+            "real_image_link": "https://i.ibb.co/VnNbvPw/laptop.webp"
         },
         {
             "id": 6,
@@ -88,7 +88,7 @@
                 "camera": "48MP Main, 12MP Ultra Wide, 12MP Telephoto"
             },
             "rating": 4.4,
-            "real_image_link": "https://example.com/xperia1v.jpg"
+            "real_image_link": "https://i.ibb.co/VnNbvPw/laptop.webp"
         },
         {
             "id": 7,
@@ -103,7 +103,7 @@
                 "camera": "50MP Main, 13MP Ultra Wide, 5MP Macro"
             },
             "rating": 4.5,
-            "real_image_link": "https://example.com/rogphone7.jpg"
+            "real_image_link": "https://i.ibb.co/VnNbvPw/laptop.webp"
         },
         {
             "id": 8,
@@ -118,7 +118,7 @@
                 "camera": "50MP Main, 50MP Ultra Wide, 50MP Telephoto"
             },
             "rating": 4.6,
-            "real_image_link": "https://example.com/oppofindx6pro.jpg"
+            "real_image_link": "https://i.ibb.co/VnNbvPw/laptop.webp"
         },
         {
             "id": 9,
@@ -133,7 +133,7 @@
                 "camera": "50MP Main, 50MP Ultra Wide"
             },
             "rating": 4.3,
-            "real_image_link": "https://example.com/nothingphone2.jpg"
+            "real_image_link": "https://i.ibb.co/VnNbvPw/laptop.webp"
         },
         {
             "id": 10,
@@ -152,7 +152,7 @@
                 ]
             },
             "rating": 4.8,
-            "real_image_link": "https://example.com/applewatch9.jpg"
+            "real_image_link": "https://i.ibb.co/VnNbvPw/laptop.webp"
         },
         {
             "id": 11,
@@ -171,7 +171,7 @@
                 ]
             },
             "rating": 4.6,
-            "real_image_link": "https://example.com/galaxywatch6.jpg"
+            "real_image_link": "https://i.ibb.co/VnNbvPw/laptop.webp"
         },
         {
             "id": 12,
@@ -190,7 +190,7 @@
                 ]
             },
             "rating": 4.5,
-            "real_image_link": "https://example.com/fitbitsense2.jpg"
+            "real_image_link": "https://i.ibb.co/VnNbvPw/laptop.webp"
         },
         {
             "id": 13,
@@ -209,7 +209,7 @@
                 ]
             },
             "rating": 4.7,
-            "real_image_link": "https://example.com/garminvenu3.jpg"
+            "real_image_link": "https://i.ibb.co/VnNbvPw/laptop.webp"
         },
         {
             "id": 14,
@@ -228,7 +228,7 @@
                 ]
             },
             "rating": 4.4,
-            "real_image_link": "https://example.com/huaweiwatchgt4.jpg"
+            "real_image_link": "https://i.ibb.co/VnNbvPw/laptop.webp"
         },
         {
             "id": 15,
@@ -247,7 +247,7 @@
                 ]
             },
             "rating": 4.3,
-            "real_image_link": "https://example.com/amazfitgtr4.jpg"
+            "real_image_link": "https://i.ibb.co/VnNbvPw/laptop.webp"
         },
         {
             "id": 16,
@@ -266,7 +266,7 @@
                 ]
             },
             "rating": 4.2,
-            "real_image_link": "https://example.com/fossilgen6.jpg"
+            "real_image_link": "https://i.ibb.co/VnNbvPw/laptop.webp"
         },
         {
             "id": 17,
@@ -285,7 +285,7 @@
                 ]
             },
             "rating": 4.5,
-            "real_image_link": "https://example.com/ticwatchpro5.jpg"
+            "real_image_link": "https://i.ibb.co/VnNbvPw/laptop.webp"
         },
         {
             "id": 18,
@@ -304,7 +304,7 @@
                 ]
             },
             "rating": 4.4,
-            "real_image_link": "https://example.com/withingsscanwatch2.jpg"
+            "real_image_link": "https://i.ibb.co/VnNbvPw/laptop.webp"
         },
         {
             "id": 19,
@@ -319,7 +319,7 @@
                 "storage": "512GB SSD"
             },
             "rating": 4.7,
-            "real_image_link": "https://example.com/dellxps13.jpg"
+            "real_image_link": "https://i.ibb.co/VnNbvPw/laptop.webp"
         },
         {
             "id": 20,
@@ -334,7 +334,7 @@
                 "storage": "1TB SSD"
             },
             "rating": 4.6,
-            "real_image_link": "https://example.com/hpspectre.jpg"
+            "real_image_link": "https://i.ibb.co/VnNbvPw/laptop.webp"
         },
         {
             "id": 21,
@@ -349,7 +349,7 @@
                 "storage": "1TB SSD"
             },
             "rating": 4.8,
-            "real_image_link": "https://example.com/thinkpadx1.jpg"
+            "real_image_link": "https://i.ibb.co/VnNbvPw/laptop.webp"
         },
         {
             "id": 22,
@@ -364,7 +364,7 @@
                 "storage": "1TB SSD"
             },
             "rating": 4.7,
-            "real_image_link": "https://example.com/rogzephyrusg14.jpg"
+            "real_image_link": "https://i.ibb.co/VnNbvPw/laptop.webp"
         },
         {
             "id": 23,
@@ -379,7 +379,7 @@
                 "storage": "512GB SSD"
             },
             "rating": 4.5,
-            "real_image_link": "https://example.com/acerswift5.jpg"
+            "real_image_link": "https://i.ibb.co/VnNbvPw/laptop.webp"
         },
         {
             "id": 24,
@@ -394,7 +394,7 @@
                 "storage": "512GB SSD"
             },
             "rating": 4.6,
-            "real_image_link": "https://example.com/surface5.jpg"
+            "real_image_link": "https://i.ibb.co/VnNbvPw/laptop.webp"
         },
         {
             "id": 25,
@@ -409,7 +409,7 @@
                 "storage": "1TB SSD"
             },
             "rating": 4.8,
-            "real_image_link": "https://example.com/razerblade15.jpg"
+            "real_image_link": "https://i.ibb.co/VnNbvPw/laptop.webp"
         },
         {
             "id": 26,
@@ -424,7 +424,7 @@
                 "storage": "1TB SSD"
             },
             "rating": 4.6,
-            "real_image_link": "https://example.com/lggram17.jpg"
+            "real_image_link": "https://i.ibb.co/VnNbvPw/laptop.webp"
         },
         {
             "id": 27,
@@ -439,7 +439,7 @@
                 "storage": "1TB SSD"
             },
             "rating": 4.9,
-            "real_image_link": "https://example.com/lggram17.jpg"
+            "real_image_link": "https://i.ibb.co/VnNbvPw/laptop.webp"
         },
         {
             "id": 28,
@@ -454,7 +454,7 @@
                 "camera": "12MP Wide, 10MP Ultra Wide"
             },
             "rating": 4.8,
-            "real_image_link": "https://example.com/ipadpro12.jpg"
+            "real_image_link": "https://i.ibb.co/VnNbvPw/laptop.webp"
         },
         {
             "id": 29,
@@ -469,7 +469,7 @@
                 "camera": "13MP Wide, 8MP Ultra Wide"
             },
             "rating": 4.7,
-            "real_image_link": "https://example.com/galaxytabs9.jpg"
+            "real_image_link": "https://i.ibb.co/VnNbvPw/laptop.webp"
         },
         {
             "id": 30,
@@ -484,7 +484,7 @@
                 "camera": "10MP Rear, 5MP Front"
             },
             "rating": 4.6,
-            "real_image_link": "https://example.com/surfacepro9.jpg"
+            "real_image_link": "https://i.ibb.co/VnNbvPw/laptop.webp"
         },
         {
             "id": 31,
@@ -499,7 +499,7 @@
                 "camera": "13MP Rear, 8MP Front"
             },
             "rating": 4.5,
-            "real_image_link": "https://example.com/lenovotabp12pro.jpg"
+            "real_image_link": "https://i.ibb.co/VnNbvPw/laptop.webp"
         },
         {
             "id": 32,
@@ -514,7 +514,7 @@
                 "camera": "13MP Rear, 8MP Front"
             },
             "rating": 4.4,
-            "real_image_link": "https://example.com/huaweimatepadpro.jpg"
+            "real_image_link": "https://i.ibb.co/VnNbvPw/laptop.webp"
         },
         {
             "id": 33,
@@ -529,7 +529,7 @@
                 "camera": "8MP Rear, 5MP Front"
             },
             "rating": 4.2,
-            "real_image_link": "https://example.com/firemax11.jpg"
+            "real_image_link": "https://i.ibb.co/VnNbvPw/laptop.webp"
         },
         {
             "id": 34,
@@ -544,7 +544,7 @@
                 "camera": "50MP Rear, 20MP Front"
             },
             "rating": 4.5,
-            "real_image_link": "https://example.com/xiaomipad6pro.jpg"
+            "real_image_link": "https://i.ibb.co/VnNbvPw/laptop.webp"
         },
         {
             "id": 35,
@@ -559,7 +559,7 @@
                 "camera": "13MP Rear, 8MP Front"
             },
             "rating": 4.3,
-            "real_image_link": "https://example.com/oppopad2.jpg"
+            "real_image_link": "https://i.ibb.co/VnNbvPw/laptop.webp"
         },
         {
             "id": 36,
@@ -574,7 +574,7 @@
                 "camera": "13MP Rear, 8MP Front"
             },
             "rating": 4.1,
-            "real_image_link": "https://example.com/oppopad2.jpg"
+            "real_image_link": "https://i.ibb.co/VnNbvPw/laptop.webp"
         },
         {
             "id": 37,
@@ -589,7 +589,7 @@
                 "storage": "256GB, 512GB, 1TB"
             },
             "rating": 4.8,
-            "real_image_link": "https://example.com/macbookairm2.jpg"
+            "real_image_link": "https://i.ibb.co/VnNbvPw/laptop.webp"
         },
         {
             "id": 38,
@@ -604,7 +604,7 @@
                 "storage": "512GB, 1TB, 2TB"
             },
             "rating": 4.9,
-            "real_image_link": "https://example.com/macbookpro14.jpg"
+            "real_image_link": "https://i.ibb.co/VnNbvPw/laptop.webp"
         },
         {
             "id": 39,
@@ -619,7 +619,7 @@
                 "storage": "1TB, 2TB, 4TB"
             },
             "rating": 4.9,
-            "real_image_link": "https://example.com/macbookpro16.jpg"
+            "real_image_link": "https://i.ibb.co/VnNbvPw/laptop.webp"
         },
         {
             "id": 40,
@@ -634,7 +634,7 @@
                 "storage": "256GB, 512GB"
             },
             "rating": 4.7,
-            "real_image_link": "https://example.com/macbookairm1.jpg"
+            "real_image_link": "https://i.ibb.co/VnNbvPw/laptop.webp"
         },
         {
             "id": 41,
@@ -649,7 +649,7 @@
                 "storage": "256GB, 512GB, 1TB"
             },
             "rating": 4.6,
-            "real_image_link": "https://example.com/macbookpro13m2.jpg"
+            "real_image_link": "https://i.ibb.co/VnNbvPw/laptop.webp"
         },
         {
             "id": 42,
@@ -664,7 +664,7 @@
                 "storage": "512GB, 1TB, 2TB"
             },
             "rating": 4.8,
-            "real_image_link": "https://example.com/macbookpro14m1pro.jpg"
+            "real_image_link": "https://i.ibb.co/VnNbvPw/laptop.webp"
         },
         {
             "id": 43,
@@ -679,7 +679,7 @@
                 "storage": "1TB, 2TB, 4TB, 8TB"
             },
             "rating": 4.9,
-            "real_image_link": "https://example.com/macbookpro16m1max.jpg"
+            "real_image_link": "https://i.ibb.co/VnNbvPw/laptop.webp"
         },
         {
             "id": 44,
@@ -694,7 +694,7 @@
                 "storage": "256GB, 512GB, 1TB"
             },
             "rating": 4.8,
-            "real_image_link": "https://example.com/macbookairm2midnight.jpg"
+            "real_image_link": "https://i.ibb.co/VnNbvPw/laptop.webp"
         },
         {
             "id": 45,
@@ -705,10 +705,10 @@
             "specifications": {
                 "display": "14.2-inch Liquid Retina XDR",
                 "processor": "Apple M2 Max",
-                "ram": "32GB, 64GB, 96GB",
+                "ram_rom": "32GB, 64GB, 96GB",
                 "storage": "1TB, 2TB, 4TB, 8TB"
             },
             "rating": 4.9,
-            "real_image_link": "https://example.com/macbookpro14m2max.jpg"
+            "real_image_link": "https://i.ibb.co/VnNbvPw/laptop.webp"
         }
     ]

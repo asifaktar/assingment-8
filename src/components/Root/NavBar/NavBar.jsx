@@ -4,7 +4,7 @@ import { FaRegHeart } from "react-icons/fa";
 
 const NavBar = () => {
     const Links = <>
-            <li><NavLink to="/">Home</NavLink></li>
+            <li className="font-bold"><NavLink to="/">Home</NavLink></li>
             <li><a>About Us</a></li>
         </>
     return (
