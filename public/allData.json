@@ -5,6 +5,7 @@
             "model_name": "iPhone 15 Pro",
             "description": "Latest iPhone with A17 chip and titanium design.",
             "stock": "in stock",
+            "category": "phones",
             "price": 999,
             "specifications": {
                 "display": "6.1-inch Super Retina XDR",
@@ -21,6 +22,7 @@
             "description": "Flagship Android phone with 200MP camera.",
             "stock": "in stock",
             "price": 1199,
+            "category": "phones",
             "specifications": {
                 "display": "6.8-inch Dynamic AMOLED 2X",
                 "processor": "Snapdragon 8 Gen 2",
@@ -36,6 +38,7 @@
             "description": "AI-powered smartphone with advanced camera features.",
             "stock": "in stock",
             "price": 899,
+            "category": "phones",
             "specifications": {
                 "display": "6.7-inch OLED",
                 "processor": "Google Tensor G3",
@@ -51,6 +54,7 @@
             "description": "Flagship killer with Hasselblad camera.",
             "stock":"out of stock",
             "price": 799,
+            "category": "phones",
             "specifications": {
                 "display": "6.7-inch Fluid AMOLED",
                 "processor": "Snapdragon 8 Gen 2",
@@ -66,6 +70,7 @@
             "description": "High-performance phone with Leica camera.",
             "stock":"in stock",
             "price": 999,
+            "category": "phones",
             "specifications": {
                 "display": "6.73-inch AMOLED",
                 "processor": "Snapdragon 8 Gen 2",
@@ -81,6 +86,7 @@
             "description": "Cinematic phone with 4K OLED display.",
             "stock": "out of stock",
             "price": 1299,
+            "category": "phones",
             "specifications": {
                 "display": "6.5-inch 4K OLED",
                 "processor": "Snapdragon 8 Gen 2",
@@ -96,6 +102,7 @@
             "description": "Gaming phone with Snapdragon 8 Gen 2.",
             "stock": "in stock",
             "price": 999,
+            "category": "phones",
             "specifications": {
                 "display": "6.78-inch AMOLED",
                 "processor": "Snapdragon 8 Gen 2",
@@ -111,6 +118,7 @@
             "description": "Premium phone with Hasselblad camera.",
             "stock": "in stock",
             "price": 1099,
+            "category": "phones",
             "specifications": {
                 "display": "6.82-inch AMOLED",
                 "processor": "Snapdragon 8 Gen 2",
@@ -126,6 +134,7 @@
             "description": "Unique design with Glyph Interface.",
             "stock": "out of stock",
             "price": 699,
+            "category": "phones",
             "specifications": {
                 "display": "6.7-inch OLED",
                 "processor": "Snapdragon 8+ Gen 1",
@@ -141,6 +150,7 @@
             "description": "Advanced smartwatch with health monitoring features.",
             "stock": "in stock",
             "price": 399,
+            "category": "SmartWatches",
             "specifications": {
                 "display": "1.9-inch Retina LTPO OLED",
                 "processor": "S9 SiP",
@@ -160,6 +170,7 @@
             "description": "Premium smartwatch with rotating bezel and health tracking.",
             "stock": "in stock",
             "price": 349,
+            "category": "SmartWatches",
             "specifications": {
                 "display": "1.5-inch Super AMOLED",
                 "processor": "Exynos W930",
@@ -179,6 +190,7 @@
             "description": "Health-focused smartwatch with stress management tools.",
             "stock": "in stock",
             "price": 299,
+            "category": "SmartWatches",
             "specifications": {
                 "display": "1.58-inch AMOLED",
                 "processor": "Fitbit OS",
@@ -198,6 +210,7 @@
             "description": "Fitness smartwatch with advanced health metrics.",
             "stock": "in stock",
             "price": 449,
+            "category": "SmartWatches",
             "specifications": {
                 "display": "1.4-inch AMOLED",
                 "processor": "Garmin OS",
@@ -217,6 +230,7 @@
             "description": "Stylish smartwatch with long battery life.",
             "stock": "out of stock",
             "price": 299,
+            "category": "SmartWatches",
             "specifications": {
                 "display": "1.43-inch AMOLED",
                 "processor": "Huawei Lite OS",
@@ -236,6 +250,7 @@
             "description": "Affordable smartwatch with fitness tracking.",
             "stock": "in stock",
             "price": 199,
+            "category": "SmartWatches",
             "specifications": {
                 "display": "1.43-inch AMOLED",
                 "processor": "Zepp OS",
@@ -255,6 +270,7 @@
             "description": "Fashionable smartwatch with Wear OS.",
             "stock": "in stock",
             "price": 299,
+            "category": "SmartWatches",
             "specifications": {
                 "display": "1.28-inch AMOLED",
                 "processor": "Snapdragon Wear 4100+",
@@ -274,6 +290,7 @@
             "description": "Dual-layer display smartwatch with Wear OS.",
             "stock": "in stock",
             "price": 349,
+            "category": "SmartWatches",
             "specifications": {
                 "display": "1.39-inch AMOLED",
                 "processor": "Snapdragon Wear 4100+",
@@ -293,6 +310,7 @@
             "description": "Hybrid smartwatch with ECG and SpO2.",
             "stock": "in stock",
             "price": 299,
+            "category": "SmartWatches",
             "specifications": {
                 "display": "1.2-inch PMOLED",
                 "processor": "Withings OS",
@@ -312,6 +330,7 @@
             "description": "Ultra-thin laptop with InfinityEdge display.",
             "stock": "out of stock",
             "price": 1299,
+            "category": "Laptops",
             "specifications": {
                 "display": "13.4-inch 4K UHD+",
                 "processor": "Intel Core i7-1250U",
@@ -327,6 +346,7 @@
             "description": "Convertible laptop with OLED display.",
             "stock": "in stock",
             "price": 1399,
+            "category": "Laptops",
             "specifications": {
                 "display": "13.5-inch OLED",
                 "processor": "Intel Core i7-1260P",
@@ -342,6 +362,7 @@
             "description": "Business laptop with lightweight design.",
             "stock": "in stock",
             "price": 1499,
+            "category": "Laptops",
             "specifications": {
                 "display": "14-inch WQXGA",
                 "processor": "Intel Core i7-1270P",
@@ -357,6 +378,7 @@
             "description": "Gaming laptop with Ryzen 9 and RTX 4060.",
             "stock": "in stock",
             "price": 1599,
+            "category": "Laptops",
             "specifications": {
                 "display": "14-inch QHD+",
                 "processor": "AMD Ryzen 9 7940HS",
@@ -372,6 +394,7 @@
             "description": "Lightweight laptop with Intel Evo platform.",
             "stock": "in stock",
             "price": 1199,
+            "category": "Laptops",
             "specifications": {
                 "display": "14-inch FHD",
                 "processor": "Intel Core i7-1260P",
@@ -387,6 +410,7 @@
             "description": "Sleek laptop with touchscreen and Windows 11.",
             "stock": "in stock",
             "price": 1299,
+            "category": "Laptops",
             "specifications": {
                 "display": "13.5-inch PixelSense",
                 "processor": "Intel Core i7-1250U",
@@ -402,6 +426,7 @@
             "description": "Gaming laptop with RTX 4070 and QHD display.",
             "stock": "in stock",
             "price": 2499,
+            "category": "Laptops",
             "specifications": {
                 "display": "15.6-inch QHD",
                 "processor": "Intel Core i7-12800H",
@@ -417,6 +442,7 @@
             "description": "Ultra-light laptop with 17-inch display.",
             "stock": "in stock",
             "price": 1699,
+            "category": "Laptops",
             "specifications": {
                 "display": "17-inch WQXGA",
                 "processor": "Intel Core i7-1260P",
@@ -432,6 +458,7 @@
             "description": "Compact gaming laptop with RTX 4060.",
             "stock": "in stock",
             "price": 1799,
+            "category": "Laptops",
             "specifications": {
                 "display": "14-inch QHD+",
                 "processor": "Intel Core i7-13700H",
@@ -447,6 +474,7 @@
             "description": "Powerful tablet with M2 chip and Liquid Retina XDR display.",
             "stock": "out of stock",
             "price": 1099,
+            "category": "Tabs",
             "specifications": {
                 "display": "12.9-inch Liquid Retina XDR",
                 "processor": "Apple M2",
@@ -462,6 +490,7 @@
             "description": "Large Android tablet with AMOLED display.",
             "stock": "out of stock",
             "price": 999,
+            "category": "Tabs",
             "specifications": {
                 "display": "14.6-inch AMOLED",
                 "processor": "Snapdragon 8 Gen 2",
@@ -477,6 +506,7 @@
             "description": "Versatile 2-in-1 tablet with detachable keyboard.",
             "stock": "in stock",
             "price": 1199,
+            "category": "Tabs",
             "specifications": {
                 "display": "13-inch PixelSense",
                 "processor": "Intel Core i7-1255U",
@@ -492,6 +522,7 @@
             "description": "Premium Android tablet with OLED display.",
             "stock": "out of stock",
             "price": 899,
+            "category": "Tabs",
             "specifications": {
                 "display": "12.6-inch OLED",
                 "processor": "Snapdragon 870",
@@ -507,6 +538,7 @@
             "description": "High-performance tablet with HarmonyOS.",
             "stock": "out of stock",
             "price": 999,
+            "category": "Tabs",
             "specifications": {
                 "display": "12.6-inch OLED",
                 "processor": "Kirin 9000E",
@@ -522,6 +554,7 @@
             "description": "Affordable tablet with Alexa integration.",
             "stock": "in stock",
             "price": 229,
+            "category": "Tabs",
             "specifications": {
                 "display": "11-inch IPS LCD",
                 "processor": "MediaTek MT8188",
@@ -537,6 +570,7 @@
             "description": "High-performance tablet with Snapdragon 8+ Gen 1.",
             "stock": "in stock",
             "price": 599,
+            "category": "Tabs",
             "specifications": {
                 "display": "11-inch IPS LCD",
                 "processor": "Snapdragon 8+ Gen 1",
@@ -552,6 +586,7 @@
             "description": "Slim tablet with 2.5K display.",
             "stock": "in stock",
             "price": 499,
+            "category": "Tabs",
             "specifications": {
                 "display": "11-inch 2.5K LCD",
                 "processor": "Snapdragon 870",
@@ -567,6 +602,7 @@
             "description": "Budget-friendly tablet with 2K display.",
             "stock": "in stock",
             "price": 299,
+            "category": "Tabs",
             "specifications": {
                 "display": "10.4-inch 2K LCD",
                 "processor": "Snapdragon 695",
@@ -582,6 +618,7 @@
             "description": "Thin and light laptop with Apple M2 chip.",
             "stock": "in stock",
             "price": 1199,
+            "category": "MacBooks",
             "specifications": {
                 "display": "13.6-inch Liquid Retina",
                 "processor": "Apple M2",
@@ -597,6 +634,7 @@
             "description": "Pro-level laptop with M2 Pro chip and Mini-LED display.",
             "stock": "in stock",
             "price": 1999,
+            "category": "MacBooks",
             "specifications": {
                 "display": "14.2-inch Liquid Retina XDR",
                 "processor": "Apple M2 Pro",
@@ -612,6 +650,7 @@
             "description": "High-performance laptop for professionals.",
             "stock": "in stock",
             "price": 2499,
+            "category": "MacBooks",
             "specifications": {
                 "display": "16.2-inch Liquid Retina XDR",
                 "processor": "Apple M2 Max",
@@ -627,6 +666,7 @@
             "description": "Affordable and efficient laptop with Apple M1 chip.",
             "stock": "out of stock",
             "price": 999,
+            "category": "MacBooks",
             "specifications": {
                 "display": "13.3-inch Retina",
                 "processor": "Apple M1",
@@ -642,6 +682,7 @@
             "description": "Compact pro laptop with Apple M2 chip.",
             "stock": "out of stock",
             "price": 1299,
+            "category": "MacBooks",
             "specifications": {
                 "display": "13.3-inch Retina",
                 "processor": "Apple M2",
@@ -657,6 +698,7 @@
             "description": "Powerful laptop with M1 Pro chip for creative professionals.",
             "stock": "out of stock",
             "price": 1999,
+            "category": "MacBooks",
             "specifications": {
                 "display": "14.2-inch Liquid Retina XDR",
                 "processor": "Apple M1 Pro",
@@ -672,6 +714,7 @@
             "description": "Ultra-powerful laptop with M1 Max chip for heavy workloads.",
             "stock": "in stock",
             "price": 3499,
+            "category": "MacBooks",
             "specifications": {
                 "display": "16.2-inch Liquid Retina XDR",
                 "processor": "Apple M1 Max",
@@ -687,6 +730,7 @@
             "description": "Sleek MacBook Air in Midnight color with M2 chip.",
             "stock": "in stock",
             "price": 1199,
+            "category": "MacBooks",
             "specifications": {
                 "display": "13.6-inch Liquid Retina",
                 "processor": "Apple M2",
@@ -702,6 +746,7 @@
             "description": "Top-tier laptop with M2 Max chip for extreme performance.",
             "stock": "in stock",
             "price": 2999,
+            "category": "MacBooks",
             "specifications": {
                 "display": "14.2-inch Liquid Retina XDR",
                 "processor": "Apple M2 Max",
